@@ -1,0 +1,68 @@
+
+.digits{
+	display: inline-block;
+}
+#digit-1{
+	
+	display: inline-block;
+	margin-right: 10px;
+}
+
+#digit-2{
+	
+	display: inline-block;
+	margin-right: 10px;
+}
+
+#digit-3{
+	
+	display: inline-block;
+	margin: 10px;
+}
+
+#digit-4{
+	
+	display: inline-block;
+	margin: 10px;
+}
+
+#digit-5{
+	
+	display: inline-block;
+	margin-right: 10px;
+}
+
+#digit-6{
+	
+	display: inline-block;
+	margin: 10px;
+}
+
+#digit-7{
+	
+	display: inline-block;
+	margin: 10px;
+}
+
+#digit-8{
+	
+	display: inline-block;
+	margin-right: 10px;
+}
+
+#digit-9{
+	
+	display: inline-block;
+	margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
